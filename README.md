@@ -28,8 +28,8 @@ int main() {
 }
 ```
 ## OUTPUT
-Original Number: 44                  
-Number after 3 left shifts: 352
+![image](https://github.com/user-attachments/assets/f68b46df-be3a-4b2e-81f2-00bdc1958a9f)
+
 
 
 ## RESULT
@@ -82,9 +82,8 @@ int main() {
 
 
 ## OUTPUT
-Enter first number: 10      
-Enter second number: 10  
-The numbers are equal.           
+![image](https://github.com/user-attachments/assets/95b1b7f0-59de-4600-aaa8-20e00c612031)
+          
 ## RESULT
 
 Thus the program to check whether the two numbers are equal or not using simple if statement has been executed successfully
@@ -125,8 +124,8 @@ int main() {
 ```
 
 ## OUTPUT
-Enter a string: Hello World!      
-String in lowercase: hello world!
+
+![image](https://github.com/user-attachments/assets/e67571f7-40e8-446c-8ec1-e841c2bb1c56)
 
 
 
@@ -173,8 +172,8 @@ int main() {
 }
 ```
 ## OUTPUT
-Enter a string: Hello, how are you today?   
-Total number of words: 5
+![image](https://github.com/user-attachments/assets/8c7118e9-278e-4629-9e3d-14bc888727d6)
+
 
 ## RESULT
 Thus the program to count the total number of words in a given string using do While loop has been executed successfully
@@ -239,9 +238,8 @@ int main() {
 ```
 
 ## OUTPUT
- Enter the first string: hello  
-Enter the second string: hello   
-The strings are equal.
+![image](https://github.com/user-attachments/assets/6c08a4cb-956b-49f7-b7fa-9942f260fbdc)
+
 
 ## RESULT
 Thus the C Program to compare two strings without using strcmp() has been executed successfully.
